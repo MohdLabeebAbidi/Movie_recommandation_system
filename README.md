@@ -52,8 +52,7 @@ movie-recommendation-system/
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Acknowledgments
 - The datasets are sourced from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
